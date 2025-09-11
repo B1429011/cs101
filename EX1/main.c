@@ -4,7 +4,7 @@ int main(){
     printf("\t\t2025 9月\n");
     printf("日\t一\t二\t三\t四\t五\t六\n");
     printf("\033[1;34m31");
-    printf("\033[1;36m\t1\t2\t3\t4\t5\t6\n");
+    printf("\033[1;36m\t 1\t 2\t 3\t 4\t 5\t 6\n");
     printf(" 7\t 8\t 9\t10\t11\t12\t13\n");
     printf("14\t15\t16\t17\t18\t19\t20\n");
     printf("21\t22\t23\t24\t25\t26\t27\n");
